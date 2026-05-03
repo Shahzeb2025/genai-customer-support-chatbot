@@ -52,7 +52,7 @@ genai-customer-support-chatbot/
 👤 Author
 Syed Mohammad Shahzeb  
 📧 syedshahzeb2325@gmail.com  
-🔗 LinkedIn  
-🐙 GitHub
+🔗 https://www.linkedin.com/in/syedshahzeb23  
+🐙 https://github.com/Shahzeb2025
 ---
 ⭐ If you found this project useful, please give it a star!
