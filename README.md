@@ -43,10 +43,8 @@ Building a simple but functional GenAI-powered application
 ```
 genai-customer-support-chatbot/
 │
-├── chatbot.py          # Main chatbot script
-├── prompts.py          # Prompt templates
-├── requirements.txt    # Dependencies
-└── README.md           # Project documentation
+├── GenAI_chatbot.ipynb  # Main chatbot script
+└── README.md            # Project documentation
 ```
 ---
 👤 Author
